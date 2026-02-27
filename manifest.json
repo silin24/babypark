@@ -8,12 +8,12 @@
   "theme_color": "#EC4899",
   "icons": [
     {
-      "src": "https://picsum.photos/192/192",
+      "src": "https://yimadatest.oss-cn-beijing.aliyuncs.com/Snipaste_2026-02-27_17-26-161010017647.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://picsum.photos/512/512",
+      "src": "https://yimadatest.oss-cn-beijing.aliyuncs.com/Snipaste_2026-02-27_17-26-161010017647.png",
       "sizes": "512x512",
       "type": "image/png"
     }
