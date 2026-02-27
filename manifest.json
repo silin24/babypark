@@ -2,7 +2,7 @@
   "name": "宝宝乐园",
   "short_name": "宝宝乐园",
   "description": "专为1-3岁幼儿设计的互动启蒙应用",
-  "start_url": "/",
+  "start_url": "/babypark/",
   "display": "standalone",
   "background_color": "#FFF5F7",
   "theme_color": "#EC4899",
